@@ -1,0 +1,20 @@
+{
+  "companies": [
+    {
+      "id": "rT63",
+      "name": "Coca-Cola",
+      "description": "Corporación multinacional estadounidense de bebeidas con sede en Atlanta, Georgia.",
+      "founder": "Asa Griggs Candler",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNR-RG9hGj6P6m1iGk8tGT0cULYdv8pcLwOvA5ctuGjw&s",
+      "website": "https://www.coca-colacompany.com/"
+    },
+    {
+      "id": "ac5e",
+      "name": "Riwi",
+      "description": "Somos un ecosistema de formación y empleo de desarrolladores de software con BECAS 100% condonables. ",
+      "founder": "Asa Griggs Candler",
+      "logo": "https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png",
+      "website": "https://riwi.io/"
+    }
+  ]
+}
